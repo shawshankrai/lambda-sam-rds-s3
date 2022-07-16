@@ -1,4 +1,4 @@
-package helloworld;
+package javasamapp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
